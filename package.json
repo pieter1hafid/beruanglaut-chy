@@ -1,0 +1,19 @@
+{
+  "name": "beruanglaut-chy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieter1hafid/beruanglaut-chy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieter1hafid/beruanglaut-chy/issues"
+  },
+  "homepage": "https://github.com/pieter1hafid/beruanglaut-chy#readme"
+}
